@@ -1,0 +1,267 @@
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\global.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\ref\SportsStore.dll
+D:\Nguyen Gia Huy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
+D:\Nguyen Gia Huy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\global.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.SportsStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.build.SportsStore.props
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SportsStore.props
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SportsStore.props
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\SportsSt.D81B86A7.Up2Date
+C:\Users\PC\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Documents\HUFLIT\học kỳ 5\WebNC\TH\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\global.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
+D:\NguyenGiaHuy\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
+D:\NguyenGiaHuy\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\global.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
+C:\Đại học\advance web\SportsSln\SportsSln\SportsStore\bin\Debug\net6.0\ref\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\global.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\ref\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Đại học\advance web\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
+C:\Đại học\advance web\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
